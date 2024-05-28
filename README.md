@@ -4,7 +4,7 @@ Sou estudante de desenvolvimento de sistema da escola estadual Deputado Salim Se
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Estevamrod&show_icons=true&theme=tokyonight)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Estevamrod&,html)
 
-# Estudando:
+# Conhecimentos:
 <div>
   <img align="center" height="50" width="50" src= "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg">
   <img align="center" height="50" width="50" src= "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg">
